@@ -11,7 +11,6 @@ import { path as ffmpegPath } from '@ffmpeg-installer/ffmpeg';
 dotenv.config();
 ffmpeg.setFfmpegPath(ffmpegPath);
 
-let cronSchedulers = [];
 let ragiList;
 let redisClient;
 const app = express();
@@ -24,24 +23,10 @@ const updateRagiList = async () => {
     await createUpdateRagiList()
     console.log('ragi list updated sussessfully ')
     ragiList = JSON.parse(fs.readFileSync('./ragiList.json', 'UTF-8'));
-    initializeSchedulers(generateConfigForCronUsingRagiList(JSON.parse(fs.readFileSync('./ragiList.json', 'UTF-8'))))
   }
   catch (err) {
     console.log(err)
   }
-}
-
-const generateConfigForCronUsingRagiList = (ragiList) => {
-  const configList = Object.keys(ragiList).reduce((p, d) => {
-    return [...p, ...ragiList[d].map((dutyConfig) => ({
-      config: `${dutyConfig.from.trim().split('-')[1]} ${dutyConfig.from.trim().split('-')[0]} ${d.split('/')[0]} ${d.split('/')[1]} *`,
-      duty: dutyConfig.duty,
-      to: dutyConfig.to.trim(),
-      from: dutyConfig.from.trim()
-    })
-    )]
-  }, [])
-  return configList;
 }
 
 const recordStream = (duty, endMilliseconds, to, from) => {
@@ -86,25 +71,22 @@ const recordStream = (duty, endMilliseconds, to, from) => {
   }, endMilliseconds)
 }
 
-
-const initializeSchedulers = (schedulers) => {
-  cronSchedulers.map((d) => d?.stop())
-  cronSchedulers = [];
-  schedulers.map((schedule) => {
-    const scheduler = cron.schedule(schedule.config, () => {
-      let endMilliseconds;
-      if (schedule.to.trim().toLowerCase() === 'till completion')
-        endMilliseconds = 1000 * 60 * 60;
-      else
-        endMilliseconds = ((parseInt(schedule.to.split('-')[0]) - parseInt(schedule.from.split('-')[0])) + (parseInt(schedule.to.split('-')[1]) - parseInt(schedule.from.split('-')[1])) / 60) * 60 * 60 * 1000;
-      recordStream(schedule.duty, endMilliseconds, schedule.to, schedule.from)
-    }, {
-      timezone: 'Asia/Kolkata'
-    })
-    cronSchedulers.push(scheduler);
-  })
-  console.log('schedulers initialized successfully')
-};
+setInterval(() => {
+  const currentIndianDate = getIndianDate();
+  const date = currentIndianDate.getDate();
+  const month = currentIndianDate.getMonth() + 1;
+  const fullYear = currentIndianDate.getFullYear();
+  const formattedIndianDate = `${date.toString().padStart(2, '0')}/${month.toString().padStart(2, '0')}/${fullYear.toString()}`;
+  const config = ragiList[formattedIndianDate]?.find((config) => config?.from.split('-')[0] == currentIndianDate.getHours() && config?.from.split('-')[1] == currentIndianDate.getMinutes())
+  if (config) {
+    let endMilliseconds;
+    if (config.to.trim().toLowerCase() === 'till completion')
+      endMilliseconds = 1000 * 60 * 90;
+    else
+      endMilliseconds = ((parseInt(config.to.split('-')[0]) - parseInt(config.from.split('-')[0])) + (parseInt(config.to.split('-')[1]) - parseInt(config.from.split('-')[1])) / 60) * 60 * 60 * 1000;
+    recordStream(config.duty, endMilliseconds, config.to, config.from)
+  }
+}, 60000)
 
 function deleteMediaFilesIfLeftAny() {
   const files = fs.readdirSync('.');
@@ -128,7 +110,7 @@ app.get('/currentproject', async (req, res) => {
   const current = await redisClient.get('current');
   const perProjectQuota = await redisClient.get('perProjectQuota');
   const currentProjectInfo = { current, perProjectQuota }
-  res.send(currentProjectInfo);
+  res.send(currentProjectInfo); let cronSchedulers = [];
 });
 
 app.listen(PORT, async () => {
