@@ -1,0 +1,1234 @@
+{
+ "16/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Jabartoar Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Simarpreet Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Kamaljeet Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Gurpreet Singh A"
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Jabartoar Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Kamaljeet Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Gurpreet Singh A"
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Palwinder Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Jujhar Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Jaswinder Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Nirbhai Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Palwinder Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Jujhar Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Jaswinder Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Nirbhai Singh "
+  }
+ ],
+ "17/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Sukhjit Singh K "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Onkar Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Gurpreet Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Tarbalbir Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Sukhjit Singh K "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Gurpreet Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Tarbalbir Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Gurdev Singh Kh "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Jagtar Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Gurdev Singh V "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Gurbachan Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Gurdev Singh Kh "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Jagtar Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Gurdev Singh V "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Gurbachan Singh "
+  }
+ ],
+ "18/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Shokeen Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Satnam Singh K "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Lakhwinder Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Baldev Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Shokeen Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Lakhwinder Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Baldev Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Anoop Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Harjit Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Palwinder Singh B "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Davinder Singh B"
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Anoop Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Harjit Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Palwinder Singh B "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Davinder Singh B"
+  }
+ ],
+ "19/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Karnail Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Gurkirat Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Harvinder Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Arminderpal Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Karnail Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Harvinder Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Arminderpal Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Jujhar Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Davinder Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Sukhjit Singh B "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Kulwinder Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Jujhar Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Davinder Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Sukhjit Singh B "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Kulwinder Singh "
+  }
+ ],
+ "20/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Amandeep Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Maninder Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Saroop Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Ranjit Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Amandeep Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Saroop Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Ranjit Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Dharamvir Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Simranjeet Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Navneet Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Jarnail Singh K"
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Dharamvir Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Simranjeet Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Navneet Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Jarnail Singh K"
+  }
+ ],
+ "21/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Jagjit Singh Noor "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Jagdeep Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Bikramjeet Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Yadwinder Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Jagjit Singh Noor "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Bikramjeet Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Yadwinder Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Jatinderpal Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Balwinder Singh Ra "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Gursewak Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Karaj Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Jatinderpal Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Balwinder Singh Ra "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Gursewak Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Karaj Singh "
+  }
+ ],
+ "22/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Satinderbir Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Kawaldeep Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Jabartoar Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Hardeep Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Satinderbir Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Jabartoar Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Hardeep Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Lakhbir Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Gurmail Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Kuldeep Singh Kh "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Kamaljeet Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Lakhbir Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Gurmail Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Kuldeep Singh Kh "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Kamaljeet Singh "
+  }
+ ],
+ "23/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Tajinder Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Gurvinder Singh B "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Gurdev Singh Kh "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Sahib Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Tajinder Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Gurdev Singh Kh "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Sahib Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Palwinder Singh B "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Harpal Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Makhan Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Avtar Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Palwinder Singh B "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Harpal Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Makhan Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Avtar Singh "
+  }
+ ],
+ "24/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Jaswinder Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Kuldeep Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Baldev Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Kuldeep Singh Nan"
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Jaswinder Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Baldev Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Kuldeep Singh Nan"
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Harvinder Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Shubhdeep Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Gurbachan Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Gurmukh Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Harvinder Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Shubhdeep Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Gurbachan Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Gurmukh Singh "
+  }
+ ],
+ "25/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Lakhwinder Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Tarbalbir Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Surinder Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Mahandeep Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Lakhwinder Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Surinder Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Mahandeep Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Simarpreet Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Karnail Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Anoop Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Satnam Singh K"
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Simarpreet Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Karnail Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Anoop Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Satnam Singh K"
+  }
+ ],
+ "26/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Onkar Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Davinder Singh B "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Dharamvir Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Gurjit Singh Kairo"
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Onkar Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Dharamvir Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Gurjit Singh Kairo"
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Saroop Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Ravinder Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Jagtar Singh Ra "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Maninder Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Saroop Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Ravinder Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Jagtar Singh Ra "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Maninder Singh "
+  }
+ ],
+ "27/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Gurpreet Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Kulwinder Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Jarnail Singh K "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Jagdeep Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Gurpreet Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Jarnail Singh K "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Jagdeep Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Bikramjeet Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Gagandeep Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Narinder Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Sukhjit Singh B"
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Bikramjeet Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Gagandeep Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Narinder Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Sukhjit Singh B"
+  }
+ ],
+ "28/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Gurdev Singh V "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Sahib Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Karaj Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Ranjit Singh G"
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Gurdev Singh V "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Karaj Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Ranjit Singh G"
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Gurkirat Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Hardeep Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Lakhbir Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Gurpreet Singh A"
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Gurkirat Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Hardeep Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Lakhbir Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Gurpreet Singh A"
+  }
+ ],
+ "29/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Jalwinder Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Satinderbir Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Shokeen Singh  "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Kawaldeep Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Jalwinder Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Shokeen Singh  "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Kawaldeep Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Navneet Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Sukhpreet Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Palwinder Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Tajinder Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Navneet Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Sukhpreet Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Palwinder Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Tajinder Singh "
+  }
+ ],
+ "30/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Surinder Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Amandeep Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Sukhjit Singh K "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Harjit Singh "
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Surinder Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Sukhjit Singh K "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Harjit Singh "
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Makhan Singh  "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Mahandeep Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Gurmukh Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Simranjeet Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Makhan Singh  "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Mahandeep Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Gurmukh Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Simranjeet Singh "
+  }
+ ],
+ "31/05/2023": [
+  {
+   "from": "02-00",
+   "to": "03-00",
+   "duty": "Bhai Davinder Singh  "
+  },
+  {
+   "from": "03-00",
+   "to": "06-05",
+   "duty": "Bhai Arminderpal Singh  "
+  },
+  {
+   "from": "06-15",
+   "to": "08-00",
+   "duty": "Bhai Jagjit Singh Noor "
+  },
+  {
+   "from": "08-00",
+   "to": "09-00",
+   "duty": "Bhai Gurvinder Singh A"
+  },
+  {
+   "from": "13-30 ",
+   "to": " 15-00",
+   "duty": "Bhai Davinder Singh  "
+  },
+  {
+   "from": "15-00 ",
+   "to": " 16-20",
+   "duty": "Bhai Jagjit Singh Noor "
+  },
+  {
+   "from": "16-20 ",
+   "to": " 17-35",
+   "duty": "Bhai Gurvinder Singh A"
+  },
+  {
+   "from": "09-00",
+   "to": "10-00",
+   "duty": "Bhai Jagtar Singh Ra "
+  },
+  {
+   "from": "10-00",
+   "to": "11-00",
+   "duty": "Bhai Nirbhai Singh  "
+  },
+  {
+   "from": "11-00",
+   "to": "12-00",
+   "duty": "Bhai Jalwinder Singh  "
+  },
+  {
+   "from": "12-00 ",
+   "to": " 13-30",
+   "duty": "Bhai Shubhdeep Singh "
+  },
+  {
+   "from": "17-35 ",
+   "to": " 18-40",
+   "duty": "Bhai Jagtar Singh Ra "
+  },
+  {
+   "from": "18-40 ",
+   "to": " 19-30",
+   "duty": "Bhai Nirbhai Singh  "
+  },
+  {
+   "from": "19-45 ",
+   "to": " 21-30",
+   "duty": "Bhai Jalwinder Singh  "
+  },
+  {
+   "from": "21-30 ",
+   "to": " till Completion",
+   "duty": "Bhai Shubhdeep Singh "
+  }
+ ]
+}
